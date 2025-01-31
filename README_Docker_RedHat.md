@@ -158,7 +158,7 @@ Edit the following file
 vi /etc/ssh/sshd_config
 ```
 
-Uncommnent the line `PermitRootLogin yes` and save the updated file (ESC + `:wq!`)
+Uncomment the line `PermitRootLogin yes` and save the updated file (ESC + `:wq!`)
 
 Restart SSH serverr
 
